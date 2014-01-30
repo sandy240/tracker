@@ -1,4 +1,4 @@
-The following links will bring you to line in the jQuery (current master) source above. The line (and probably adjacent lines) will identify some existing browser issue that jQuery must account for when providing an API for consistent browser/DOM programming semantics.
+The following links will bring you to line in the jQuery (current master, is a 2.1.x build with no oldIE-specific code) source above. The line (and probably adjacent lines) will identify some existing browser issue that jQuery must account for when providing an API for consistent browser/DOM programming semantics.
 
 - [L41](https://gist.github.com/rwaldron/8720084#file-jquery-js-L41)
 - [L43](https://gist.github.com/rwaldron/8720084#file-jquery-js-L43)
