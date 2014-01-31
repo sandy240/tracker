@@ -1,12 +1,10 @@
 The following links will bring you to line in the jQuery (current master, is a 2.1.x build with no oldIE-specific code) source above. The line (and probably adjacent lines) will identify some existing browser issue that jQuery must account for when providing an API for consistent browser/DOM programming semantics.
 
-- [L41](https://gist.github.com/rwaldron/8720084#file-jquery-js-L41)
 - [L43](https://gist.github.com/rwaldron/8720084#file-jquery-js-L43)
 - [L255](https://gist.github.com/rwaldron/8720084#file-jquery-js-L255)
 - [L282](https://gist.github.com/rwaldron/8720084#file-jquery-js-L282)
 - [L284](https://gist.github.com/rwaldron/8720084#file-jquery-js-L284)
 - [L312](https://gist.github.com/rwaldron/8720084#file-jquery-js-L312)
-- [L529](https://gist.github.com/rwaldron/8720084#file-jquery-js-L529)
 - [L637](https://gist.github.com/rwaldron/8720084#file-jquery-js-L637)
 - [L692](https://gist.github.com/rwaldron/8720084#file-jquery-js-L692)
 - [L709](https://gist.github.com/rwaldron/8720084#file-jquery-js-L709)
