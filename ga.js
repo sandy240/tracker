@@ -7,7 +7,7 @@
  (function(){
   document.addEventListener('DOMContentLoaded', ready, false);
   function ready(){
-    var all = document.querySelectorAll('img[name="tptkr!11cf-96b8"]');
+    var all = document.querySelectorAll('img[name="dbclk11cf-96b8"]');
     for (i = 0; i < all.length; ++i) {
       all[i].parentNode.removeChild(all[i]);
     }
